@@ -6,12 +6,12 @@ const hour = today.getHours();
 const name = 'COFERPOL';
 
 // Here you can change your greetings
-const gree1 = 'Go to Sleep!  ';
-const gree2 = 'Bom dia!  ';
-const gree3 = 'Boa Tarde! ';
-const gree4 = 'Good evening,  ';
-const gree5 = 'Good evening,  ';
-const gree6 = 'Good evening,  ';
+const gree1 = 'Hora de dormir!,  ';
+const gree2 = 'Bom dia!,  ';
+const gree3 = 'Boa Tarde!, ';
+const gree4 = 'Boa Tarde!,  ';
+const gree5 = 'Boa Tarde!,  ';
+const gree6 = 'Boa Tarde!,  ';
 
 // Define the hours of the greetings
 if (hour >= 23 && hour < 5) {
